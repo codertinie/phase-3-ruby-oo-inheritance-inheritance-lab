@@ -1,4 +1,3 @@
-require 'pry'
 
 class Student < User
   
@@ -12,4 +11,3 @@ class Student < User
     @knowledge << knowledge
   end
 end
-binding.pry
